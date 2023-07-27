@@ -16,12 +16,13 @@
 <h1>⚙️ How Does it Work</h1>
 <p>Easy Newsroom works by having two parts. The front end (built in React), and the back end (built in Python). The website owner will set up the React app on a web server and configure it with the URL to communicate with the backend. They will also set up the back end on a Linux machine and configure it with the login credentials, domain, etc.</p>
 
-<h1>Features</h1>
+<h1>🔥 Features</h1>
 <ul>
   <li>🔒 HTTPS encryption between front and back end.</li>
   <li>🌐 Support for custom domains.</li>
   <li>⚡ Super fast and responsive UI</li>
   <li>💬 Support for Discord webhooks.</li>
+  <li>📱 Optimized for mobile.</li>
 </ul>
 
 <h1>⏬ Setup and Instalation</h1>
