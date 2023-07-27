@@ -1,0 +1,80 @@
+.banner {
+    display: flex;
+    background-color: rgb(255, 198, 198);
+    border-radius: 0.5em;
+    width: fit-content;
+}
+
+.banner div {
+    margin: auto;
+    padding: 10px;
+}
+
+.banner img {
+    width: 100px;
+}
+
+.banner a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.post-page {
+    display: flex;
+    padding-top: 5%;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.new-post-form {
+    text-align: left;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 0.5em;
+    padding: 30px;
+    margin-top: 40px;
+    min-width: max-content;
+    width: 100%;
+    max-width: 900px;
+}
+
+.new-post-form input {
+    border: 1px black solid;
+    border-radius: 0.5em;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+
+.new-post-form textarea {
+    border: 1px black solid;
+    border-radius: 0.5em;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    resize: vertical;
+    width: 99%;
+    min-height: 20px;
+    height: 300px;
+}
+
+.new-post-form button {
+    background-color: rgb(57, 1, 95);
+    color: white;
+    padding: 10px 50px 10px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 1em;
+    margin-top: 20px;
+}
+
+.new-post-form button:active {
+    transform: scale(0.96);
+}
+
+.credentials input:nth-child(2) {
+    margin-left: 10px;
+}
