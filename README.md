@@ -28,7 +28,7 @@
 <h1>⏬ Setup and Instalation</h1>
 <p>Head over to the wiki tab for information about setup and installation.</p>
 
-<h1>🫱🏻‍🫲🏻 Contributing</h1>
+<h1>👋 Contributing</h1>
 <p>Want to contribute to this project? Head over to our contributing guide.</p>
 
 <h1>🙋🏻‍♂️ Our Team</h1>
